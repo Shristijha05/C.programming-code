@@ -35,3 +35,29 @@ To set up the Online Voting System locally, follow these steps:
    ```bash
    git clone https://github.com/yourusername/online-voting-system.git
 
+Usage
+For detailed usage instructions and API documentation, refer to the User Manual and API Documentation provided in this repository.
+
+Contributing
+We welcome contributions from the community to enhance the Online Voting System. To contribute:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them.
+Push your changes to your fork.
+Submit a pull request to this repository.
+Please review our Contribution Guidelines for more information on our coding standards and processes.
+
+License
+This project is licensed under the MIT License.
+
+sql
+Copy code
+
+Make sure to replace the placeholders like `yourusername`, `voting-system-logo.png`, and customize the content to match your specific online voting system. Additionally, include relevant documentation and instructions in the repository to help users and contributors understand and use the system effectively.
+
+
+
+
+
+
